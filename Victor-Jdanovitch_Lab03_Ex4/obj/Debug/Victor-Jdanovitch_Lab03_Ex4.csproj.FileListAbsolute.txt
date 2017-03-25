@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Winter 2017\COMP212\Visual Studio Projects\Victor-Jdanovitch_Lab03\Victor-Jdanovitch_Lab03_Ex4\bin\Debug\Victor-Jdanovitch_Lab03_Ex4.exe.config
+C:\Users\admin\Desktop\Winter 2017\COMP212\Visual Studio Projects\Victor-Jdanovitch_Lab03\Victor-Jdanovitch_Lab03_Ex4\bin\Debug\Victor-Jdanovitch_Lab03_Ex4.exe
+C:\Users\admin\Desktop\Winter 2017\COMP212\Visual Studio Projects\Victor-Jdanovitch_Lab03\Victor-Jdanovitch_Lab03_Ex4\bin\Debug\Victor-Jdanovitch_Lab03_Ex4.pdb
+C:\Users\admin\Desktop\Winter 2017\COMP212\Visual Studio Projects\Victor-Jdanovitch_Lab03\Victor-Jdanovitch_Lab03_Ex4\obj\Debug\Victor-Jdanovitch_Lab03_Ex4.exe
+C:\Users\admin\Desktop\Winter 2017\COMP212\Visual Studio Projects\Victor-Jdanovitch_Lab03\Victor-Jdanovitch_Lab03_Ex4\obj\Debug\Victor-Jdanovitch_Lab03_Ex4.pdb
